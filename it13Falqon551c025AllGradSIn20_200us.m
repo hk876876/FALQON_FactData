@@ -1,8 +1,4 @@
 dat = [...
-%{
-c = 0.25
-%}
-
 
 
 %/opt/nmrdata/tsmahesh/QXI_Hari_FalqonFact551Repeat/2319/pdata/1/integrals.txt
